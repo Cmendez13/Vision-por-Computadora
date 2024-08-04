@@ -1,0 +1,9 @@
+TP2 Visión por Computadora
+
+Implementar un detector de máximo enfoque sobre un video aplicando técnicas de análisis espectral similar al que utilizan las camaras digitales modernas.
+
+El video a procesar será: "focus_video.mov"
+
+Integrantes:
+Carlos Villalobos
+Carlos Méndez
