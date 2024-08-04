@@ -1,8 +1,20 @@
 Tp1 Visión por Computadora
 
-Parte 1 (imagenes /white_patch y /coord_cromaticas)
-Parte 2 (Segmentación)
+Parte 1 (imagenes /white_patch y /coord_cromaticas):
 
+Implementar el algoritmo de pasaje a coordenadas cromáticas para librarnos de las variaciones de contraste.
+
+Implementar el algoritmo White Patch para librarnos de las diferencias de color de iluminación.
+
+Mostrar los resultados obtenidos y analizar las posibles fallas (si es que las hay) en el caso de White Patch.
+
+Parte 2:
+
+Para las imagenes img1_tp.png y img2_tp.png leerlas con OpenCV en escalas de grises y visualizarlas.
+
+Elija el número de bins crea conveniente y grafique su histograma, compare los histogramas entre sí. Explicar lo que se observa, si tuviera que entrenar un modelo de clasificación/detección de imágenes, ¿cónsidera que puede ser de utilidad tomar como "features" a los histogramas?.
+
+Para la imagen segmentacion.png analice el histograma de canales RGB. Segmente algunos de los elementos presentes en la imagen (agua, cielo y tierra) y muestre, aplicando mascaras, las regiones en imagenes separadas
 Integrantes:
 Carlos Villalobos
 Carlos Méndez
