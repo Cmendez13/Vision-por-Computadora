@@ -1,5 +1,19 @@
 Tp2 Visión por computadora
 
+El video a procesar será: "focus_video.mov"
+
+Se debe implementar un algoritmo que dada una imagen, o región, calcule la métrica propuesta en el papper "Image Sharpness Measure for Blurred Images in Frequency Domain" y realizar tres experimentos:
+Medición en todo el frame.
+Medición sobre un ROI ubicada en el centro del frame. Área de la ROI = 5 o 10% del total del frame.
+Medición de una matriz de enfoque compuesta por un arreglo de NxM elementos rectangulares equiespaciados. N y M son valores arbitrarios, probar con varios valores 3x3,7x5, etc. (al menos 3)
+Para cada experimento se debe presentar:
+
+Una curva o varias curvas que muestren la evolución de la métrica frame por frame donde se vea claramente cuando el algoritmo detecta el punto de máximo enfoque.
+
+Video con la ROI o matriz, graficada en rojo y superpuesta al video original para los frames que no están en foco y verde para los frame donde se detecta la condición de máximo enfoque.
+
+Cambiar la métrica de enfoque eligiendo uno de los algoritmos explicados en el apéndice de: Analysis of focus measure operators in shapeform focus.
+
 Integrantes:
 Carlos Villalobos
 Carlos Méndez
