@@ -1,1 +1,17 @@
+TP3 Visión por Computadora
 
+Encontrar el logotipo de la gaseosa dentro de
+
+las imagenes provistas en Material_TPs/TP3/Images a partir del template Material_TPs/TP3/Template.
+
+(4 pts) Obtener una detección del logo en cada imagen sin falsos positivos.
+
+(4 pts) Plantear y validar un algoritmo para multiples detecciones en la imagen "coca_multi.png" con el mismo template del ítem 1.
+
+(2 pts) Generar un algoritmo del ítme 2 para todas las imagenes.
+
+Visualizar los resultados con bounding boxes en cada imagen mostrando el nivel de confianza de la detección.
+
+Integrantes:
+Carlos Villalobos
+Carlos Méndez
